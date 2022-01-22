@@ -1,0 +1,8 @@
+// Your First C++ Program
+
+#include <iostream>
+
+int main() {
+    std::cout << "Simple_test!";
+    return 0;
+}
